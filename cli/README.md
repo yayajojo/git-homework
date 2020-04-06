@@ -54,3 +54,24 @@
 
 - `vim`
 
+### 請說明以下 Linux file system structure 
+
+- `/`
+
+- `/bin`
+
+- `/etc`
+
+- `/home`
+
+- `/lib`
+
+- `/var`
+
+- `/sbin`
+
+- `/srv`
+
+- `/tmp`
+
+- `/usr`
