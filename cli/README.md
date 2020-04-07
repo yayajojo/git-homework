@@ -9,16 +9,15 @@
 ### 名詞解釋
 
 - GUI vs CLI
-圖形介面（GUI，Graphical User Interface）
-命令列介面（CLI，Command Line Interface）
+  - 圖形介面（GUI，Graphical User Interface）
+  - 命令列介面（CLI，Command Line Interface）
 GUI通常使用大量的按鈕、工具欄、對話方塊等圖示的方式來向計算機發送指令。好處是比起使用純文字的命令列，由於使用者可以較直觀使用圖形介面，因此具有易用性，壞處為圖形介面需要更多計算機系統的資源，效能較差。
 CLI採用直接輸入命令和引數的文字列方式直接向計算機發送各種指令。由於可以用純文字發送指令，使得其效率較高與精準，但壞處為使用方式較不直觀，使用者需要記憶操作的命令。
 - terminal
-終端機 (Terminal)：每個虛擬控制台都會提供一個界面，該界面可以提供鍵盤輸入以及螢幕輸出，這個界面就稱為終端機。 使用者在終端機登入帳號與密碼後，即可取得殼程式 (shell) 來進行系統的互動。一般終端機大多指純文字界面，不過就廣義的說法， 圖形界面 (Graphical User Interface, GUI) 也可視為一種終端機。
+  - 終端機 (Terminal)：每個虛擬控制台都會提供一個界面，該界面可以提供鍵盤輸入以及螢幕輸出，這個界面就稱為終端機。 使用者在終端機登入帳號與密碼後，即可取得殼程式 (shell) 來進行系統的互動。一般終端機大多指純文字界面，不過就廣義的說法， 圖形界面 (Graphical User Interface, GUI) 也可視為一種終端機。
 - shell
-殼程式 (Shell)：讓使用者輸入指令串，然後將該指令串丟進系統執行的軟體，就可稱為是殼程式。
-    - bash
-    Linux 使用的預設版本 Bourne Again SHell (簡稱 bash) 。
+  - 殼程式 (Shell)：讓使用者輸入指令串，然後將該指令串丟進系統執行的軟體，就可稱為是殼程式。
+    - bash : Linux 使用的預設版本 Bourne Again SHell (簡稱 bash) 。
     - zsh：基於 ksh 發展出來的，功能更強大的 shell（z shell）。
 
 ### 請解釋下方 CLI 的指令作用
